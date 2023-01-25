@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**altmoket/altmoket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, friend 👋
+Welcome to my profile.
 
-Here are some ideas to get you started:
+I am a computer science student with a great desire to learn and collaborate on new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on the development of domain specific languages
+
+🌱 I’m currently learning how to create good code
+
+👯 I’m looking to collaborate in the construction of large systems
+
+💬 Ask me about ... 
+
+<div align="center" width="500"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altmoket&layout=compact&theme=dracula"/></div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=altmoket&theme=dracula)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altmoket&show_icons=true&theme=dracula)
+
+
+
+
