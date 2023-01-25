@@ -12,10 +12,12 @@ I am a computer science student with a great desire to learn and collaborate on 
 
 💬 Ask me about ... 
 
-<div align="center" width="500"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altmoket&layout=compact&theme=dracula"/></div>
+<div align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altmoket&layout=compact&theme=dracula"></div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=altmoket&theme=dracula)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altmoket&show_icons=true&theme=dracula)
+<div style="display: flex;">
+<img src="https://streak-stats.demolab.com/?user=altmoket&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=altmoket&show_icons=true&theme=dracula">
+<div>
 
 
 
