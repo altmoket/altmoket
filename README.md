@@ -27,6 +27,11 @@ I am a computer science student with a great desire to learn and collaborate on 
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" alt="docker" width="45" height="45"/>  
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="docker" width="45" height="45"/>  
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" alt="docker" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="docker" width="45" height="45"/>
 </p>
 
 ## 📈 My GitHub History 
