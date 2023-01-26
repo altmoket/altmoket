@@ -15,9 +15,9 @@ I am a computer science student with a great desire to learn and collaborate on 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altmoket&layout=compact&theme=dracula"></div>
 
-<div style="display: flex;">
-  <img src="https://streak-stats.demolab.com/?user=altmoket&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api?username=altmoket&show_icons=true&theme=dracula">
+<div style="display: flex; flex-direction: row;">
+  <img flex="auto" src="https://streak-stats.demolab.com/?user=altmoket&theme=dracula">
+  <img flex="auto" src="https://github-readme-stats.vercel.app/api?username=altmoket&show_icons=true&theme=dracula">
 </div>
 
 
