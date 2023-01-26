@@ -15,7 +15,7 @@ I am a computer science student with a great desire to learn and collaborate on 
 
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -30,8 +30,8 @@ I am a computer science student with a great desire to learn and collaborate on 
 </p>
 
 ## 📈 My GitHub History 
-<div>
-<img width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altmoket&layout=compact&theme=dracula">
+<div style="display: flex">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altmoket&layout=compact&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api?username=altmoket&show_icons=true&theme=dracula">
 </div>
 
