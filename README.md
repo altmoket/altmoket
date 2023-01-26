@@ -31,7 +31,7 @@ I am a computer science student with a great desire to learn and collaborate on 
 
 ## 📈 My GitHub History 
 <div width="500">
-<img width="43%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altmoket&layout=compact&theme=dracula">
+<img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altmoket&layout=compact&theme=dracula">
 <img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=altmoket&show_icons=true&theme=dracula">
 </div>
 
