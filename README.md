@@ -3,13 +3,13 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## About me...
-I am a computer science student with a great desire to learn and collaborate on new ideas.
+I am a computer science student with a strong desire to learn and collaborate on new ideas.
 
-🔭 I’m currently working on the development of domain specific languages
+🔭 I'm currently working on the development of domain-specific languages.
 
-🌱 I’m currently learning ... good coding
+🌱 I'm learning to ... code well
 
-👯 I’m looking to collaborate in the construction of large systems
+👯 I'd like to be involved in building large systems.
 
 💬 Ask me about ... 
 
