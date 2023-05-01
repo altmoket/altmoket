@@ -5,11 +5,11 @@
 ## About me...
 I am a computer science student with a strong desire to learn and collaborate on new ideas.
 
-🔭 I'm currently working on the development of domain-specific languages.
+🔭 I'm working on the development of domain-specific languages.
 
-🌱 I'm learning to ... code well
+🌱 I'm learning Common Lisp, the best programming language in the world.
 
-👯 I'd like to be involved in building large systems.
+👯 I'd like to be part of building large systems.
 
 💬 Ask me about ... 
 
