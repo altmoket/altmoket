@@ -3,15 +3,15 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## About me...
-I am a computer science student with a strong desire to learn and collaborate on new ideas.
+I am a backend developer with a strong desire to learn and work on new ideas.
 
-🔭 I'm working on the development of domain-specific languages.
+🔭 I'm working on my naming skills.
 
-🌱 I'm learning Common Lisp, the best programming language in the world.
+🌱 I'm currently learning Common Lisp, an awesome programming language.
 
-👯 I'd like to be part of building large systems.
+👯 I'd like to be involved in building big and interesting systems.
 
-💬 Ask me about ... 
+💬 Ask me about bad practices and I will show you my code.
 
 
 
